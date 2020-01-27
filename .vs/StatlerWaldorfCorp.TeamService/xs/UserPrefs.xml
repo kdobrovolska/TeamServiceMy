@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{96266E33-143E-4BDC-9604-23DA66FDEABB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Controllers/TeamsController.cs" Line="75" Column="4" />
+      <File FileName="Controllers/MembersController.cs" Line="115" Column="2" />
+      <File FileName="Models/Member.cs" />
+      <File FileName="Persistence/ITeamRepository.cs" />
+      <File FileName="Persistence/MemoryTeamRepository.cs" />
+      <File FileName="docker_entrypoint.sh" Line="1" Column="1" />
+      <File FileName="Startup.cs" Line="27" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StatlerWaldorfCorp.TeamService" expanded="True">
+            <Node name="StatlerWaldorfCorp.TeamService" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StatlerWaldorfCorp.TeamService PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/Startup.cs" relfile="Startup.cs" line="18" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

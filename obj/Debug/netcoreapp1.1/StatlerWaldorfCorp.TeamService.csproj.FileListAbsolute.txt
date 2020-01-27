@@ -1,0 +1,9 @@
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.deps.json
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.runtimeconfig.json
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.runtimeconfig.dev.json
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.dll
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/bin/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.pdb
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.AssemblyInfoInputs.cache
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.dll
+/Users/myfolder/Documents/MicroservicesExample/teamservice-master/src/StatlerWaldorfCorp.TeamService/obj/Debug/netcoreapp1.1/StatlerWaldorfCorp.TeamService.pdb
